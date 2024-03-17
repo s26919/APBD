@@ -8,6 +8,7 @@ namespace MyProject
         public static void Main(string[] args)
         {
             Console.WriteLine("Mod1");
+            Console.WriteLine("Mod2");
             
             
         }
